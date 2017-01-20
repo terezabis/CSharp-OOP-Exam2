@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exam_10_July_2016.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_10_July_2016.Hardware" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAABAAAAAAAAAAAAAAAAHAIAAAAAAAIAAAAA=</HashCode>
+      <FileName>Hardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_10_July_2016.PowerHardware" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>PowereHardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_10_July_2016.HeavyHardware" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>HeavyHardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_10_July_2016.Software" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACgAAAAABMAAAAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_10_July_2016.ExpressSoftware" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>ExpressSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_10_July_2016.LightSoftware" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAwAAAAAAAAA=</HashCode>
+      <FileName>LightSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam_10_July_2016.Sistem" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAACAABAAAAMAAIAAAACAAACAAAAAgAAAAIAAAA=</HashCode>
+      <FileName>Sistem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
